@@ -1,4 +1,4 @@
-# chocoweb
+# Chocoweb
 
 Project started on November 16th 2018.
 
@@ -14,4 +14,3 @@ Ce projet fonctionne en PHP avec une base de données MySQL. Il vous faudra donc
 4. Importez-y le contenu du fichier `[fichier-à-définir].sql` ;
 5. Configurez la connexion à votre base de données dans le fichier `[fichier-à-définir].php` ;
 6. Lancez votre serveur local et accédez au site web grâce à votre URL locale.
-# Chocoweb
